@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, it's me Fauziadnan Nugraha Saputra 👋
+![hello](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnM4bmdjcWEzdDAycjVwbWkyMWtxZGtpbnlhYWxpajNxMGR6M3FicSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VOPK1BqsMEJRS/giphy.gif)
 
 <!--
 **mars22144/mars22144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning front-end developer and python
