@@ -1,5 +1,5 @@
 ## Hi, it's me Fauziadnan Nugraha Saputra 👋
-![hello](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmdxd2JwczNsMGE5NGE3amMyZHI2amR0dHV5bGppNjRqNzdzemt3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DUO76cKAFAObu/giphy.gif)
+![fauziadnan](img/github-header-image.png)
 
 <!--
 **mars22144/mars22144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +17,19 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning front-end developer and python
+- 🔭 I’m currently enrolled as a student at Bina Sarana Informatika University.
+
+##### Skills
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
