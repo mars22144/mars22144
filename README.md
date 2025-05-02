@@ -1,5 +1,5 @@
 ## Hi, it's me Fauziadnan Nugraha Saputra 👋
-![hello](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnM4bmdjcWEzdDAycjVwbWkyMWtxZGtpbnlhYWxpajNxMGR6M3FicSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VOPK1BqsMEJRS/giphy.gif)
+![hello](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmdxd2JwczNsMGE5NGE3amMyZHI2amR0dHV5bGppNjRqNzdzemt3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DUO76cKAFAObu/giphy.gif)
 
 <!--
 **mars22144/mars22144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
