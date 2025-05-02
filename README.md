@@ -1,5 +1,6 @@
-## Hi, it's me Fauziadnan Nugraha Saputra 👋
+#### Hi, it's me Fauziadnan Nugraha Saputra 👋
 ![fauziadnan](img/github-header-image%20(12).png)
+
 
 <!--
 **mars22144/mars22144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning front-end developer and python
+- 🌱 I’m currently learning front-end developer and python.
 - 🔭 I’m currently enrolled as a student at Bina Sarana Informatika University.
 
 ##### Skills
@@ -24,5 +25,6 @@ Here are some ideas to get you started:
 
 
 #### Social Medial
-![https://www.instagram.com/fziadnn/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![https://www.facebook.com/share/19CkX77EwJ/](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fziadnn)
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?.svg?&logo=facebook&logoColor=white)](https://www.facebook.com/share/19CkX77EwJ/)
