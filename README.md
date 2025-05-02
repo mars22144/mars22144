@@ -1,5 +1,5 @@
 ## Hi, it's me Fauziadnan Nugraha Saputra 👋
-![fauziadnan](img/github-header-image.png)
+![fauziadnan](img/github-header-image%20(10).png)
 
 <!--
 **mars22144/mars22144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
