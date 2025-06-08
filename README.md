@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning back-end developer.
 - 🔭 I’m currently enrolled as a student at Bina Sarana Informatika University.
-- 👯 I’m looking to collaborate on some project.
+- 👯 I’m looking to collaborate on project.
 - 💬 Ask me about tech news.
 
 ##### Skills
