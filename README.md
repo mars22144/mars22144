@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fziadnn) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?.svg?&logo=facebook&logoColor=white)](https://www.facebook.com/share/19CkX77EwJ/)
 
 ##### Support
-<a href="https://sociabuzz.com/saputras" target = "_blank">Sosiabuzz</a>
+<a href="https://sociabuzz.com/saputras" target="_blank">Sosiabuzz</a>
