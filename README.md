@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 ##### Support
 <a href="https://sociabuzz.com/saputras" target="_blank">Sosiabuzz</a>
 
-##### Stat
+##### Statistics
 ![Fauziadnan Github Stats](https://github-readme-stats.vercel.app/api?username=mars22144&show_icons=true&theme=dark#gh-dark-mode-only)
