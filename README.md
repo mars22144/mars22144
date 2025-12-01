@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <a href="https://sociabuzz.com/saputras" target="_blank">Sosiabuzz</a>
 
 ##### Statistics
-[![Mars22144](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Mars22144](https://github-readme-stats.vercel.app/api?username=mars22144&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/mars22144/github-readme-stats#gh-dark-mode-only)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mars22144&theme=dark&layout=pie)
 
