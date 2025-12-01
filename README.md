@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 ##### Statistics
 ![Fauziadnan Github Stats](https://github-readme-stats.vercel.app/api?username=mars22144&show_icons=true&theme=dark#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mars22144&theme=dark&layout=pie)](https://github.com/mars22144/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mars22144&theme=dark&layout=pie)]
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mars22144.visitor-badge.issue.1)
