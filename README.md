@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning back-end developer.
+- 🌱 I’m currently learning front-end developer.
 - 🔭 I’m currently enrolled as a student at Bina Sarana Informatika University.
 - 👯 I’m looking to collaborate on project.
 - 💬 Ask me about tech news.
