@@ -23,17 +23,17 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on project.
 - 💬 Ask me about tech news.
 
-##### Skills
+#### Skills
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src = "https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white"/>
 
 
-##### Social Media
+#### Social Media
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/zynanv_/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?.svg?&logo=facebook&logoColor=white)](https://www.facebook.com/share/19CkX77EwJ/)
 
-##### Support
+#### Support
 <a href="https://sociabuzz.com/saputras" target="_blank">Sosiabuzz</a>
 
-##### Statistics
+#### Statistics
 [![mars22144](https://statistic-five.vercel.app/api?username=mars22144&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/mars22144/github-readme-stats#gh-dark-mode-only)
 
 ![Top Langs](https://top-lang-nine.vercel.app/api/top-langs/?username=mars22144&theme=dark&layout=pie)
