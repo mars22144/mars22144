@@ -1,4 +1,4 @@
-#### Hi, it's me Fauziadnan Nugraha Saputra 👋
+### Hi, it's me Fauziadnan Nugraha Saputra 👋
 ![fauziadnan](img/github-header-image%20(12).png)
 
 
