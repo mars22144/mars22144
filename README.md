@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://top-lang-nine.vercel.app/api/top-langs/?username=mars22144&theme=dark&layout=pie)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=mars22144.visitor-badge.issue.1)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=mars22144&label=Visitor&countColor=%23263759)](https://visitorbadge.io/status?path=mars22144)
